@@ -16,7 +16,7 @@ I'm also interested in creating fun, interactive UI/UX styles! 🎀
 
 ## 🛠️ Tech Stack 🛠️
 
-### ✨ Languages & Tools
+### 🍡 Languages & Tools
 <p>
   <img src="https://img.shields.io/badge/java-B3CCE8?style=flat-square&logo=OpenJDK&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-FEC5BB?style=flat-square&logo=HTML5&logoColor=white">
@@ -25,17 +25,26 @@ I'm also interested in creating fun, interactive UI/UX styles! 🎀
 </p>
 
 
-### 💻 Collaboration & Versioning
+### 🍓 Collaboration & Versioning
 <p>
   <img src="https://img.shields.io/badge/git-FEC7D7?style=flat-square&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-EAD1DC?style=flat-square&logo=github&logoColor=black">
   <img src="https://img.shields.io/badge/Notion-F3F3F3?style=flat-square&logo=notion&logoColor=black">
 </p>
 
-### 🎨 Design Tools
+
+### 🧚🏻‍♀️ Design Tools
 <p>
   <img src="https://img.shields.io/badge/Figma-0ACF83?style=flat-square&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/adobe%20photoshop-FFD1DC?style=flat-square&logo=adobe%20photoshop&logoColor=white">
 </p>
 
 <br>
+
+<p align="center">
+  <img src="https://github.com/guswjd8694/guswjd8694/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guswjd8694&bg_color=fff0f6&color=ff80ab&line=ffa8c5&point=fbb1cd&area=true&hide_border=true" />
+</p>
