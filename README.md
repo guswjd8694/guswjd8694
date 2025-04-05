@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/guswjd8694/guswjd8694/blob/main/welcome.png?raw=true" alt="Welcome Banner" width="500"/>
+</p>
+
+
 🌷 Hi there! I'm learning backend development step by step.
 
 💗 I enjoy turning small ideas into actual programs.  
