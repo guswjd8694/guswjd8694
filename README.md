@@ -40,11 +40,3 @@ I'm also interested in creating fun, interactive UI/UX styles! 🎀
 </p>
 
 <br>
-
-<p align="center">
-  <img src="https://github.com/guswjd8694/guswjd8694/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guswjd8694&bg_color=fff0f6&color=ff80ab&line=ffa8c5&point=fbb1cd&area=true&hide_border=true" />
-</p>
